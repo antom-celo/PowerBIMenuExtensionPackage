@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GIT\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage.csproj": {}
+  },
+  "projects": {
+    "D:\\GIT\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage.csproj",
+        "projectName": "PowerBIMenuExtensionPackage",
+        "projectPath": "D:\\GIT\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage.csproj",
+        "packagesPath": "C:\\Users\\ladic\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\PowerBIMenuExtensionPackage\\PowerBIMenuExtensionPackage\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\ladic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[17.14.1043-preview2, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

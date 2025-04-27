@@ -1,0 +1,5 @@
+D:\GIT\PowerBIMenuExtensionPackage\PowerBIMenuExtensionPackage\obj\Debug\PowerBIMenuExtensionPackage.csproj.AssemblyReference.cache
+D:\GIT\PowerBIMenuExtensionPackage\PowerBIMenuExtensionPackage\obj\Debug\_EmptyResource.resources
+D:\GIT\PowerBIMenuExtensionPackage\PowerBIMenuExtensionPackage\obj\Debug\PowerBIMenuExtensionPackage.csproj.GenerateResource.cache
+D:\GIT\PowerBIMenuExtensionPackage\PowerBIMenuExtensionPackage\obj\Debug\PowerBIMenuExtensionPackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\PowerBIMenuExtensionPackage\PowerBIMenuExtensionPackage\obj\Debug\PowerBIMenuExtensionPackage.csproj.CoreCompileInputs.cache

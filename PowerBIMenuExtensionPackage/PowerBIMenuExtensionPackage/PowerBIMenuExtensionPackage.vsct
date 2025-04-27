@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/developer/msft-vs/2005" Version="1.0" xmlns:vs="http://schemas.microsoft.com/developer/msft-vs/2008">
+  <Commands>
+  <!-- Přidání nového příkazu -->
+  <Button guid="guidPowerBIMenuExtensionPackageCmdSet" id="cmdidOpenPbixInPowerBI" priority="0x0100" type="Button">
+    <Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_ITEMNODE" />
+    <Icon guid="guidImages" id="bmpPic1" />
+    <Strings>
+      <ButtonText>Open in Power BI Desktop</ButtonText>
+    </Strings>
+  </Button>
+</Commands>
+
+<Symbols>
+  <!-- Definice ID příkazu -->
+  <GuidSymbol name="guidPowerBIMenuExtensionPackageCmdSet" value="{YOUR-GUID-HERE}">
+    <IDSymbol name="cmdidOpenPbixInPowerBI" value="0x0100" />
+  </GuidSymbol>
+</Symbols>
+</Package>
